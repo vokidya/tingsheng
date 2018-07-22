@@ -1,0 +1,28 @@
+.guideBar {
+    margin-top: 100px;
+    background: #EFEFEF;
+    vertical-align: baseline;
+    height: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.guide-text {
+    margin-top: -30px;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.guild {
+    cursor: pointer; 
+    height: 4em; 
+    display: inline-block
+}
+
+.router-link-active {
+  color: red;
+}
+
+
+html,body{overflow:hidden;overflow-y:auto;}
