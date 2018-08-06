@@ -1,5 +1,10 @@
 .git
-node_modules
+node_modules/
+bower_components/
 logreport
-report
+mp/
+report/
 package.json
+Gruntfile.js
+webpack.config.js
+.DS_Store
