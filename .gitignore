@@ -4,7 +4,4 @@ bower_components/
 logreport
 mp/
 report/
-package.json
-Gruntfile.js
-webpack.config.js
 .DS_Store
