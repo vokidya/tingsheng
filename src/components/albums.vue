@@ -10,7 +10,7 @@
     </div>
 
     <div class="row" style="margin: 5%">
-      <div v-for="album in albums" class="col-xs-6 col-sm-4 col-md-2 ">
+      <div v-for="album in albums" class="col-sm-4 col-md-2 ">
           <a v-bind:href="album.link" class="thumbnail">
           <img v-bind:src="album.coverLink" v-bind:alt="album.name">
         </a>
