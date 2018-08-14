@@ -1,8 +1,0 @@
-.git
-node_modules/
-bower_components/
-logreport
-mp/
-report/
-build/
-.DS_Store
